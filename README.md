@@ -1,2 +1,2 @@
-# PrepCurse-Henry
-Este es un repositotio de prueba del modulo 2 de Henry
+Gisela Fernandez 
+Este es un royecto de prueba de como crear un repositorio y clonarlo desde gitbuh a mi computadora de manera local
